@@ -1,0 +1,35 @@
+_repo: Kalevala-nayttamolla-III-sarja-of-3_52527
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Leino, Eino
+    aliases:
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    - Vilkastus, Mikko
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2016-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52527'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Kullervo -- Sammon ryöstö -- Väinämöisen lähtö.
+title: 'Kalevala näyttämöllä: III sarja (of 3)'
+url: http://www.gutenberg.org/ebooks/52527
